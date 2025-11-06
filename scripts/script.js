@@ -2,7 +2,7 @@
 // File hoàn chỉnh: kết nối tới Lanyard, cập nhật trạng thái và ép tên hiển thị cố định.
 // Nếu muốn hiển thị tên Discord thực, để customDisplayName hoặc customUsername = "".
 
-const userID = "738748102311280681"; // <-- giữ hoặc đổi ID bạn muốn
+const userID = "1117715058168971264"; // <-- giữ hoặc đổi ID bạn muốn
 const customDisplayName = "HongAnh"; // <-- đặt tên hiển thị bạn muốn, hoặc "" để dùng Discord
 const customUsername = "DanhMC"; // <-- đặt username bạn muốn, hoặc "" để dùng Discord
 
