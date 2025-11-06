@@ -3,8 +3,8 @@
 // Nếu muốn hiển thị tên Discord thực, để customDisplayName hoặc customUsername = "".
 
 const userID = ""; // <-- giữ hoặc đổi ID bạn muốn
-const customDisplayName = "HongAnh"; // <-- đặt tên hiển thị bạn muốn, hoặc "" để dùng Discord
-const customUsername = "DanhMC"; // <-- đặt username bạn muốn, hoặc "" để dùng Discord
+const customDisplayName = "道氏红英"; // <-- đặt tên hiển thị bạn muốn, hoặc "" để dùng Discord
+const customUsername = "tonhuyen" ; // <-- đặt username bạn muốn, hoặc "" để dùng Discord
 
 const DEBUG = false; // bật true để log payload chi tiết
 
